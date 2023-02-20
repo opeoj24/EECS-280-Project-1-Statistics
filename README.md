@@ -7,3 +7,4 @@ By Ope Ojubanire <opeoju@umich.edu>
 ```console
 $ make main.exe
 $ ./main.exe
+https://eecs280staff.github.io/p1-stats/ 
